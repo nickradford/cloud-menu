@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CloudMenu",
+  "name": "CloudMenu - Simple Restaurant Menus",
   "icons": [
     {
       "src": "favicon.ico",
